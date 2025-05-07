@@ -5,7 +5,8 @@ Objective:
 To understand customer behavior over time, segment them using RFM metrics, and predict future purchases and spend using machine learning models (Random Forest & XGBoost).
 
 Key Observations:
-	1.	Cohort Analysis:
+
+1.	Cohort Analysis:
 	•	Customers were grouped by their first purchase month (cohort date).
 	•	The analysis revealed how customer retention trends over time, showing a decline in repeat engagement as months progressed.
 	•	Helpful in identifying strong acquisition months and periods where retention strategies could be improved.
